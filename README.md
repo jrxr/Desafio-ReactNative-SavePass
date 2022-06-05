@@ -2,6 +2,11 @@
   <img alt="SavePass" src=".github/adaptive-icon.png" width="160px">
 </p>
 
+<h1 align="center">
+    <img alt="SavePass" src=".github/cover.png" />
+</h1>
+
+<br>
 ## 🧪 Tecnologias
 
 Esse projeto foi desenvolvido com as seguintes tecnologias:
